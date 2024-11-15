@@ -1,2 +1,2 @@
 # resume
- My Resume From complete Data Science Engineer 
+ My Resume From Data Science Engineer 
